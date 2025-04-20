@@ -1,0 +1,14 @@
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\bin\Debug\net9.0\Lab01_7.exe
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\bin\Debug\net9.0\Lab01_7.deps.json
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\bin\Debug\net9.0\Lab01_7.runtimeconfig.json
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\bin\Debug\net9.0\Lab01_7.dll
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\bin\Debug\net9.0\Lab01_7.pdb
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\Lab01_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\Lab01_7.AssemblyInfoInputs.cache
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\Lab01_7.AssemblyInfo.cs
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\Lab01_7.csproj.CoreCompileInputs.cache
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\Lab01_7.dll
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\refint\Lab01_7.dll
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\Lab01_7.pdb
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\Lab01_7.genruntimeconfig.cache
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_7\obj\Debug\net9.0\ref\Lab01_7.dll

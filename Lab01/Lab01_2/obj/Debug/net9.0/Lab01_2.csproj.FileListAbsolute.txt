@@ -1,0 +1,14 @@
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\bin\Debug\net9.0\Lab01_2.exe
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\bin\Debug\net9.0\Lab01_2.deps.json
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\bin\Debug\net9.0\Lab01_2.runtimeconfig.json
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\bin\Debug\net9.0\Lab01_2.dll
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\bin\Debug\net9.0\Lab01_2.pdb
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\Lab01_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\Lab01_2.AssemblyInfoInputs.cache
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\Lab01_2.AssemblyInfo.cs
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\Lab01_2.csproj.CoreCompileInputs.cache
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\Lab01_2.dll
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\refint\Lab01_2.dll
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\Lab01_2.pdb
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\Lab01_2.genruntimeconfig.cache
+D:\Back-end\Tuan1\Lab\Lab01\Lab01_2\obj\Debug\net9.0\ref\Lab01_2.dll
